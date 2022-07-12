@@ -1,8 +1,4 @@
-const myCar = ["ayla",1,"brio",2,"avanza",3,"sigra"];
-const types = []
-for (let i = 0; i < myCar.length; i++){
-    types.push(typeof myCar[i])
-}
+
 
 // console.log(types);
 
